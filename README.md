@@ -2,7 +2,7 @@
 
 this tool help you generating secondary ips to your aws ec2 servers and rotate them to increase emails deliveries
 
-### installtion requirement :
+### Installation requirements :
 
 ```
 pip install boto3
